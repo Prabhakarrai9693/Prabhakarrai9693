@@ -1,16 +1,16 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on Full-Stack Web Development projects
+👯 I’m looking to collaborate on Web apps, open-source projects, and hackathons
+🌱 I’m currently learning Software Development
+💬 Ask me about Html, CSS , React , Node , MongoDB , Express, SpringFramework
+⚡ Fun fact: If I am not coding then I am probably playing games with my friends
 
-<!--
-**Prabhakarrai9693/Prabhakarrai9693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📑 Resume: Click Here
 
-Here are some ideas to get you started:
+🌐 Portfolio: Click Here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+Instagram LinkedIn X Codepen email
+
+💻 Tech Stack:
+C CSS3 HTML5 Java JavaScript Python AWS Bootstrap Express.js NodeJS React MySQL MongoDB Adobe Adobe Lightroom Adobe Photoshop Canva Figma GitHub Postman
